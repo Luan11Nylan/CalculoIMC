@@ -1,0 +1,32 @@
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.AssemblyInfo.cs
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.exe
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.deps.json
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.runtimeconfig.json
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.runtimeconfig.dev.json
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.dll
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\ref\calculo.IMC.dll
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.pdb
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.dll
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\ref\calculo.IMC.dll
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.pdb
+C:\Users\PC\Documents\Codigos C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.genruntimeconfig.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.deps.json
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.runtimeconfig.json
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.runtimeconfig.dev.json
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.dll
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\bin\Debug\net5.0\calculo.IMC.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.csproj.AssemblyReference.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.AssemblyInfoInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.AssemblyInfo.cs
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.dll
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\refint\calculo.IMC.dll
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\calculo.IMC.genruntimeconfig.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Programa-Teste-C#\calculo.IMC\calculo.IMC\calculo.IMC\obj\Debug\net5.0\ref\calculo.IMC.dll
